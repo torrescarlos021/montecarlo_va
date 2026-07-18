@@ -106,7 +106,7 @@ Desarrollado como parte de la Evidencia 1 de la materia **Salud Global para Líd
 ```
 Torres Rosas, C. J. (2026). Ruta de Salud Arriaga: modelo de simulación
 Monte Carlo para la meta 3.8 del ODS 3 (Versión 1.0) [Código fuente].
-GitHub. https://github.com/<tu-usuario>/ruta-salud-arriaga
+GitHub. https://github.com/<torrescarlos021>/ruta-salud-arriaga
 ```
 
 ## Referencias de los datos
